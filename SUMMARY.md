@@ -13,9 +13,7 @@
 
 ## Tokenomics
 
-- [CAKE Basics](tokenomics/untitled.md)
-- [SYRUP \(Staking\)](tokenomics/syrup.md)
-- [Golden SYRUP \(Lottery\)](tokenomics/golden-syrup.md)
+- [SALT Basics](tokenomics/salt.md)
 
 ## Guides
 
