@@ -1,10 +1,10 @@
 # SALT Basics
 
-![SALT Logo](../.gitbook/assets/salt.png)
+![SALT Logo](../.gitbook/assets/salt.svg)
 
 **Token:** SALT
 
-**Contract Address:** [https://testnet.bscscan.com/address/0x89dcddca577f3658a451775d58ea99da532263c8](https://testnet.bscscan.com/address/0x89dcddca577f3658a451775d58ea99da532263c8)
+**Contract Address:** [0x89dcddca577f3658a451775d58ea99da532263c8](https://testnet.bscscan.com/address/0x89dcddca577f3658a451775d58ea99da532263c8)
 
 **Chain:** Binance Smart Chain \(BEP-20\)
 
