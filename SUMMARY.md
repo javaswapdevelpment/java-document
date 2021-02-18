@@ -17,7 +17,6 @@
 
 ## Guides
 
-- [Binance Academy Guide](guides/binance-academy-guide.md)
 - [How to use SaltSwap with Trust Wallet](guides/how-to-use-saltswap-with-trust-wallet.md)
 - [How to use MetaMask on SaltSwap](guides/untitled.md)
 
