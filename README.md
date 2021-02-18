@@ -20,4 +20,4 @@ Faster, cheaper. **Sold.**
 
 **What makes SaltSwap different from every other “farm”?**
 
-We're a team of experienced developers who really enjoy the DeFi movement and are willing do dedicate our team to develop this project to the next level.
+We're a team of experienced developers who really enjoy the DeFi movement and are willing do dedicate our time to take this project to the next level.
