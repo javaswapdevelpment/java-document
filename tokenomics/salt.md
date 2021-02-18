@@ -13,7 +13,13 @@
 - **Reward per block** - 4 SALT
 - **Daily emission \(Based on 30k blocks per day\)** - 1,200,00 SALT per day
 
+**Deflationary Mechanics:**
+
+- 9.09% will be sent to the developer's address for further development of the platform;
+- Farms & pools will get corresponding SALT depending on the multiplier shown on the top left corner;
+- 20% of lottery pot is burned.
+
 **Distribution:**
 
-- **Farmers -** 75% of the rewards per block \(4 SALT\)
-- **Farmers daily -** 90,000 SALT \(based on 30k blocks per day\)
+- **Farmers -** 90% of the rewards per block \(3.6 SALT\)
+- **Farmers daily -** 81,000 SALT \(based on 30k blocks per day\)
