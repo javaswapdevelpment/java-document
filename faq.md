@@ -1,4 +1,4 @@
-**How da f\*** do I know you won’t rug me? Are the contracts safu?\*\*
+**How da f\*\*\* do I know you won’t rug me? Are the contracts safu?**
 
 Sir, look at this diff
 look at this code
