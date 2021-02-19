@@ -18,7 +18,7 @@ Create a sticker pack for Telegram [t.me/SaltSwap](https://t.me/SaltSwap), the t
 
 **Do you speak a language other than English?**
 
-Open a local SALT community in your local language on Telegram [t.me/SaltSwap](https://t.me/SaltSwap) and we will fund you.
+Open a local SALT community in your local language on Telegram and we will fund you.
 
 **Community manager**
 

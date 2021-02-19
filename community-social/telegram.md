@@ -1,33 +1,15 @@
-<!-- FIXME -->
-
 # Telegram Communities
+
+We have a thriving Telegram community
 
 **Official Telegram Groups:**
 
-📣 Announcement Channel \([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn)\)
+🧂 Main Channel [t.me/SaltSwap](https://t.me/SaltSwap)
 
-🏴󐁧󐁢󐁥󐁮󐁧󐁿 English Chat \([http://t.me/pancakeswap](http://t.me/pancakeswap)\)
-
-🇨🇳 Chinese Chat \([http://t.me/PancakeSwap_CN](http://t.me/PancakeSwap_CN)\)
-
-🇮🇩 Indonesian Chat \([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia)\)
-
-😤 Ban Appeal \([https://t.me/joinchat/C_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C_9mwknNuKq-cfXQ4-HMHA)\)
+📣 Announcement Channel [t.me/SaltSwapAnn](https://t.me/SaltSwapAnn)
 
 **Unofficial Telegram Groups:**
 
-🇻🇳 Vietnamese Community \([http://t.me/PancakeSwapVI](http://t.me/PancakeSwapVI)\)
+Want to ppen a local SALT community in your local language on Telegram?
 
-🇵🇭 Filipino Community \([http://t.me/Pancakeswap_Ph](http://t.me/Pancakeswap_Ph)\)
-
-🇪🇸 Spanish Community \([http://t.me/PancakeSwapES](http://t.me/PancakeSwapES)\)
-
-🇷🇺 Russian Community \([http://t.me/pancakeswap_ru](http://t.me/pancakeswap_ru)\)
-
-🇹🇷 Turkish Community \([http://t.me/PancakeSwapTurkish](http://t.me/PancakeSwapTurkish)\)
-
-🇩🇪 Deutsche Community \([http://t.me/pancakeswapgerman](http://t.me/pancakeswapgerman)\)
-
-🇧🇷 Portuguese Community \([http://t.me/PancakeSwapBR](http://t.me/PancakeSwapBR)\)
-
-🇦🇪 Arabic Community \([http://t.me/PancakeSwapArabic](http://t.me/PancakeSwapArabic)\)
+Talk with us and we will fund you.
