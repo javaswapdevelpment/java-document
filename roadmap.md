@@ -1,7 +1,19 @@
 # Roadmap
 
-What we are currently working on:
+Below are the features that we are currently working on.
 
-**Lottery (Burning Mechanism)**
+## NFTs
 
-The lottery is a way for you to win more SALT and a way for us to burn SALT and keep its value high.
+TODO
+
+## Binary options
+
+TODO
+
+## Launchpools
+
+Stake SALT get tokens
+
+## Lottery (Burning Mechanism)
+
+The lottery is not only a chance for you to win more SALT but also a _burning mechanism_ for us to keep the value of the token high.
