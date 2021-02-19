@@ -10,18 +10,20 @@ Please read how to contribute in our guide in the repo's README.
 
 **Designer?**
 
-Create a sticker pack for Telegram, the top 3 most voted will earn a big chunk of SALT rewards.
+Create a sticker pack for Telegram [t.me/SaltSwap](https://t.me/SaltSwap), the top 3 most voted will earn a big chunk of SALT rewards.
 
 **Do you speak a language other than English?**
 
-Open a local SALT community in your local language on Telegram and we will fund you.
+Open a local SALT community in your local language on Telegram [t.me/SaltSwap](https://t.me/SaltSwap) and we will fund you.
 
 **Community manager**
 
-Would you like to keep the channel clean of spam and help answer questions from the community?
+Would you like to keep the channel on Telegram [t.me/SaltSwap](https://t.me/SaltSwap) clean of spam and help answer questions from the community?
 
 We are opening a community manager role. We will pay you in SALT.
 
 **Twitter**
 
-We will be launching random drafts on twitter ([@SaltSwap](https://twitter.com/SaltSwap)), follow us, like and retweet our tweets and you might win a few SALTs.
+We will be tweeting frequently [@SaltSwap](https://twitter.com/SaltSwap)
+
+Follow us, like and retweet on of our tweets and you might win a few SALTs.
