@@ -9,6 +9,7 @@
 - [Exchange](core-products/saltswap-exchange.md)
 - [Pools](core-products/saltswap-pools.md)
 - [Farms](core-products/farms.md)
+- [Contracts](core-products/contracts.md)
 - [Voting](core-products/voting.md)
 - [Analytics](core-products/saltswap-analytics.md)
 
