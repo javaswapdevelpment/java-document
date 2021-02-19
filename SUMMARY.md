@@ -24,6 +24,7 @@
 
 ## Community / Social
 
+- [SALT incentives](community-social/incentives.md)
 - [Twitter](community-social/untitled.md)
 - [Telegram](community-social/discord.md)
 - [Blog \(Medium\)](community-social/blog-medium.md)
