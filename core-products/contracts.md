@@ -16,4 +16,8 @@ We have based our implementation in Goose Finance's EGG token and have the follo
 
 TODO: show diff
 
+**Contract addresses**
+
+TODO: add contract addresses
+
 Please feel free to read through before joining us.
