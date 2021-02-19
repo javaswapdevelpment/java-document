@@ -10,7 +10,7 @@ Please read how to contribute in our guide in the repo's README.
 
 **Designer?**
 
-- Stickers: Create a sticker pack for telegram, the top 3 most voted will earn a big chunk of SALT rewards.
+Create a sticker pack for Telegram, the top 3 most voted will earn a big chunk of SALT rewards.
 
 **Do you speak a language other than English?**
 
