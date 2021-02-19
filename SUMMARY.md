@@ -1,7 +1,8 @@
 # Table of contents
 
-- [Salt Swap Intro](README.md)
+- [Salt Swap](README.md)
 - [Roadmap](roadmap.md)
+- [FAQ](faq.md)
 
 ## Core Products
 

@@ -10,8 +10,8 @@
 
 **Emission rate:**
 
-- **Reward per block** - 4 SALT
-- **Daily emission \(Based on 30k blocks per day\)** - 1,200,00 SALT per day
+- **Reward per block** - 1 SALT
+- **Daily emission \(Based on 30k blocks per day\)** - 30,000 SALT per day
 
 **Deflationary Mechanics:**
 
@@ -21,5 +21,13 @@
 
 **Distribution:**
 
-- **Farmers -** 90% of the rewards per block \(3.6 SALT\)
-- **Farmers daily -** 81,000 SALT \(based on 30k blocks per day\)
+- **Farmers -** 100% of the rewards per block \(1 SALT\)
+- **Farmers daily -** 30,000 SALT \(based on 30k blocks per day\)
+
+**Fees:**
+
+SaltSwap collects a 3% deposit fee to periodically purchase SALT on the market and burn them. This will reduce the supply and pump your bags!
+
+**Time lock**
+
+We will be adding a timelock contract as the owner of the masterchef. The timelock will be activated with a _24h delay_, this should give you enough time to validate any of our transactions.

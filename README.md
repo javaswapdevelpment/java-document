@@ -1,14 +1,33 @@
-# Salt Swap Intro
+# SaltSwap, get salty!
 
-SaltSwap is an automated market maker \(“AMM”\) that allows two tokens to be exchanged on the Binance Smart Chain. It is fast, cheap, and allows anyone to participate.
+Yet another yield farm? Yes, this time it's called SaltSwap, get salty! 🧂
 
-**The Dream?**
+**Why SALT?**
 
-Stacks of salts, peppers, whipped cream.
+We are a team of experienced software developers and product managers from top tier tech companies (aka the salts) that want to contribute to the BSC DeFi yield farm movement and take it to the next level.
 
-SaltSwap is aiming to be the saltiest liquidity provider on Binance Smart Chain and the home of new, innovative gamified farming mechanics, many of which we suspect will make it to other chains and beyond.
+Even though we are starting off with a salty yield farm, we will quickly move on to bigger and greater things. We have big plans for the SALT token as you can see in our [roadmap](roadmap.md), we are in the short term planning do put development effort into the following:
+
+- NFTs
+- Binary options
+- Launchpools (stake SALT get tokens)
+- Lottery (not only a chance for you to win more SALT but also a Burning Mechanism to keep the value of the token high)
+
+We feel most projects in the space are a wee bit flavorless, so we are planning to add a little grain of salt and make them tastier. Get salty!
+
+Join us and taste our new flavoured salty token!
 
 ---
+
+**How?**
+
+We are launching a yield farm with a fair token distribution! No premine, reward start announced in advance, and no F&F getting allocs. We believe this is super fair and everyone can enjoy the salty yields.
+
+**What do you get then?**
+
+We believe that the usage of the farm will be enough for us to get the dev funds needed to cover expenses and pay the incentives.
+
+SaltSwap uses PancakeSwap.finance awesomeness to drive our liquidity pools and swaps.
 
 **Why Binance Smart Chain \(BSC\)?**
 
