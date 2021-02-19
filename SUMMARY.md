@@ -10,6 +10,7 @@
 - [Pools](core-products/saltswap-pools.md)
 - [Farms](core-products/farms.md)
 - [Contracts](core-products/contracts.md)
+- [Lottery](core-products/lottery.md)
 - [Voting](core-products/voting.md)
 - [Analytics](core-products/saltswap-analytics.md)
 
@@ -19,8 +20,7 @@
 
 ## Guides
 
-- [How to use SaltSwap with Trust Wallet](guides/how-to-use-saltswap-with-trust-wallet.md)
-- [How to use MetaMask on SaltSwap](guides/untitled.md)
+- [How to use MetaMask on SaltSwap](guides/saltswap-metamask.md)
 
 ## Community / Social
 
