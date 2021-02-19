@@ -4,7 +4,7 @@
 
 <!-- FIXME Add screenshot of https://salt-frontend-farms.netlify.app/pools -->
 
-![](https://lh5.googleusercontent.com/9aRgjqmGwHZMlV7Ofvur-lx4mVQTtt3Z6Js7uj7xZpnpNvdDvl_mBoyi2KmBaPPUwdfjhZq1DBbl7CjMPmlzEelVUoJRO4IOu0JoAbYEFMhKcuLRVS_xIyecBE3sx2QUB1hrBN9u)
+![](https://via.placeholder.com/150)
 
 **Reward multipliers:**
 
@@ -20,6 +20,8 @@
 - USDT (1x Rewards)
 - ETH (2x Rewards)
 
-SaltSwap collects a 3% deposit fee to periodically purchase SALT on the market and burn them. This will reduce the supply and pump your bags!
+[SaltSwap](https://salt-frontend-farms.netlify.app) collects a 3% deposit fee to periodically purchase SALT on the market and burn them.
+
+This will reduce the supply and pump your bags!
 
 [Get your FLIP tokens \(SaltSwap Liquidity Provider Tokens\) here](https://salt-frontend-amm.netlify.app/#/swap)
