@@ -1,6 +1,10 @@
 # SALT incentives
 
-Here are a few ways that you can earn SALT
+You can earn free SALT tokens by participating in some of our incentive programs.
+
+These programs are funded by the development fee of our farms.
+
+Here are a few ways that you can earn SALT:
 
 **Bug fixing**
 
