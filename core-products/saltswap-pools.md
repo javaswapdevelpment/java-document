@@ -1,3 +1,7 @@
+---
+description: SaltSwap's Pools
+---
+
 # Pools
 
 [**SaltSwap pools** ](https://exchange.saltswap.finance/#/pool)allow you to provide liquidity by adding your tokens to liquidity pools or “LPs”.

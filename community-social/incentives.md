@@ -1,5 +1,5 @@
 ---
-description: SaltSwap Incentives Program
+description: SaltSwap's Incentives Program
 ---
 
 # SALT incentives

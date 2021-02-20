@@ -1,5 +1,5 @@
 ---
-description: SaltSwap Exchange
+description: SaltSwap's Exchange
 ---
 
 # Exchange

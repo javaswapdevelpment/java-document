@@ -1,5 +1,5 @@
 ---
-description: SaltSwap Planned Features
+description: SaltSwap's Frequently Asked Questions
 ---
 
 **How do I know you willl not rug me? Are the contracts safe?**

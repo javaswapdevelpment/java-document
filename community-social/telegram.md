@@ -1,3 +1,7 @@
+---
+description: SaltSwap's Telegram Community
+---
+
 # Telegram Communities
 
 We have a thriving Telegram community
@@ -13,3 +17,9 @@ We have a thriving Telegram community
 Want to ppen a local SALT community in your local language on Telegram?
 
 Talk with us and we will fund you.
+
+**Community manager**
+
+Would you like to keep the channel on Telegram [t.me/SaltSwap](https://t.me/SaltSwap) clean of spam and help answer questions from the community?
+
+We are opening a community manager role. We will pay you in SALT.

@@ -1,6 +1,8 @@
-# SaltSwap, get salty!
+---
+description: Get salty! 🧂
+---
 
-Yet another yield farm? Yes, this time it's called SaltSwap, get salty! 🧂
+# SaltSwap, get salty!
 
 **Why SALT?**
 

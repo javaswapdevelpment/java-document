@@ -1,5 +1,5 @@
 ---
-description: The SaltSwap Contracts
+description: SaltSwap's Contracts
 ---
 
 # Contracts

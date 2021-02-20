@@ -1,3 +1,7 @@
+---
+description: SaltSwap's Blog
+---
+
 # Blog \(Medium\)
 
 Often we will write blog posts detailing our development progress and other topics related to SaltSwap, follow us on Medium

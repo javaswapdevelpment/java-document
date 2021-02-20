@@ -1,5 +1,5 @@
 ---
-description: A perpetual deflation token.
+description: A perpetual deflation token
 ---
 
 # SALT
