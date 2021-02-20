@@ -8,7 +8,6 @@ We are a team of experienced software developers and product managers from top t
 
 Even though we are starting off with a salty yield farm, we will quickly move on to bigger and greater things. We have big plans for the SALT token as you can see in our [roadmap](roadmap.md), we are in the short term planning do put development effort into the following:
 
-- NFTs
 - Binary options
 - Launchpools (stake SALT get tokens)
 - Lottery (not only a chance for you to win more SALT but also a Burning Mechanism to keep the value of the token high)
