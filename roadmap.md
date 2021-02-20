@@ -10,10 +10,7 @@ The lottery is not only a chance for you to win more SALT but also a _burning me
 
 Stake SALT get tokens
 
-**NFTs**
-
-TODO
 
 **Binary options**
 
-TODO
+TBD
