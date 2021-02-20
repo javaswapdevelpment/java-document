@@ -28,7 +28,7 @@ description: A perpetual deflation token
 **Distribution:**
 
 - **Farmers** - 90.9% of the rewards per block \(1 SALT\)
-- **Farmers daily** - 28800,000 SALT \(based on 28800 blocks per day\)
+- **Farmers daily** - 28,800 SALT \(based on 28,800 blocks per day\)
 - **Devs** - ~9.09% of the rewards per block \(0.1 SALT\)
 
 **Fees:**
