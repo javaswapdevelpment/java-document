@@ -10,7 +10,7 @@ The number of FLIP tokens you receive represents your portion of the SALT-BNB li
 
 ---
 
-![SaltSwap Pools UI](../.gitbook/assets/saltswap-pools.png)
+![SaltSwap Pools UI](../.gitbook/assets/pools.png)
 
 Providing liquidity is not without risk, as you may be exposed to impermanent loss.  
 [“Simply put, impermanent loss is the difference between holding tokens in an AMM and holding them in your wallet.” - Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)
