@@ -18,4 +18,4 @@ We have based our implementation in Goose Finance's EGG token and have the follo
 
 **Diff EGG MasterChef vs SALT MasterChef**
 
-Please refer to the following [diffchecker.com/AoYdXp6H](https://www.diffchecker.com/AoYdXp6H) for comparison and proff that MasterChef.sol was not changed.
+Please refer to the following diffchecker: [diffchecker.com/AoYdXp6H](https://www.diffchecker.com/AoYdXp6H)
