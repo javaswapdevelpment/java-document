@@ -1,10 +1,8 @@
 # SALT Basics
 
-![SALT Logo](../.gitbook/assets/salt.svg)
+![SALT Logo](../.gitbook/assets/salt.svg =125x150)
 
-**Token:** SALT
-
-Perpetual deflation token
+**Token:** SALT, a perpetual deflation token.
 
 **SALT Address:** [0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4](https://bscscan.com/address/0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4)
 

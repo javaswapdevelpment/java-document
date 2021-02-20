@@ -16,14 +16,8 @@ We have based our implementation in Goose Finance's EGG token and have the follo
 - No migrator code, it was totally removed;
 - Contract audit in the pipeline.
 
-**Diff**
+**Diff EGG MasterChef vs SALT MasterChef**
 
-<!-- FIXME -->
+Please refer to the following diff checker
 
-TODO: show diff
-
-**Contract addresses**
-
-TODO: add contract addresses
-
-Please feel free to read through before joining us.
+https://www.diffchecker.com/AoYdXp6H#editor
