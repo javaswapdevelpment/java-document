@@ -1,6 +1,6 @@
 # SALT Basics
 
-![SALT Logo](../.gitbook/assets/salt.svg =125x150)
+<img src="../.gitbook/assets/salt.svg" width="125" height=150 />
 
 **Token:** SALT, a perpetual deflation token.
 
