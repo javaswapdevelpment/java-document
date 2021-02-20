@@ -26,4 +26,4 @@ For example:
 - The SALT/BNB liquidity pool now has 10.017 SALT and 10.017 BNB.
 - Each FLIP token is now worth 1.00017 SALT + 1.00017 BNB.
 
-To make being a liquidity provider even more worth your while, you can also put your FLIP tokens to work whipping up some fresh yield on the [SALT farms \(here\)](https://saltswap.finance/farms), while still earning your 0.17% trading fee reward.
+To make being a liquidity provider even more worth your while, you can also put your FLIP tokens to work whipping up some fresh yield on the [SALT farms \(here\)](https://www.saltswap.finance/farms), while still earning your 0.17% trading fee reward.
