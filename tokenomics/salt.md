@@ -9,7 +9,7 @@ description: A perpetual deflation token
 **Token:** SALT
 
 - **SALT Address:** [0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4](https://bscscan.com/address/0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4)
-- **Timelock address:** [0x11D1c539a1919D601ba85cC993665819FC6120d9](https://bscscan.com/address/0x11D1c539a1919D601ba85cC993665819FC6120d9) (delay: 3 days)
+- **Timelock address:** [0x11D1c539a1919D601ba85cC993665819FC6120d9](https://bscscan.com/address/0x11D1c539a1919D601ba85cC993665819FC6120d9) (delay: 24h)
 - **MasterChef address:** [0xda8010A34ED29430B0B7E25c84cbe409506CA05f](https://bscscan.com/address/0xda8010A34ED29430B0B7E25c84cbe409506CA05f)
 
 **Chain:** Binance Smart Chain \(BEP-20\)
