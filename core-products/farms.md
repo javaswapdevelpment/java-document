@@ -15,6 +15,7 @@
 - CAKE/BUSD (4x Rewards)
 - CAKE/BNB (2x Rewards)
 - BUSD (2x Rewards)
+- BNB (1x Reward)
 - CAKE (1x Reward)
 - DAI (1x Reward)
 
