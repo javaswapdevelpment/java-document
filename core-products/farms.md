@@ -19,8 +19,8 @@
 - CAKE (1x Reward)
 - DAI (1x Reward)
 
-[SaltSwap](https://salt-frontend-farms.netlify.app) collects a 3% deposit fee to periodically purchase SALT on the market and burn them.
+[SaltSwap](https://www.saltswap.finance/farms) collects a 3% deposit fee to periodically purchase SALT on the market and burn them.
 
 This will reduce the supply and pump your bags!
 
-[Get your FLIP tokens \(SaltSwap Liquidity Provider Tokens\) here](https://salt-frontend-amm.netlify.app/#/swap)
+[Get your FLIP tokens \(SaltSwap Liquidity Provider Tokens\) here](https://exchange.saltswap.finance/#/swap)
