@@ -11,8 +11,8 @@
 - [Farms](core-products/farms.md)
 - [Contracts](core-products/contracts.md)
 - [Lottery](core-products/lottery.md)
-- [Voting](core-products/voting.md)
-- [Analytics](core-products/saltswap-analytics.md)
+  <!-- - [Voting](core-products/voting.md) -->
+  <!-- - [Analytics](core-products/saltswap-analytics.md) -->
 
 ## Tokenomics
 
