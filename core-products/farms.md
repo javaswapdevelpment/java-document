@@ -15,8 +15,8 @@
 - CAKE/BUSD (4x Rewards)
 - CAKE/BNB (2x Rewards)
 - BUSD (2x Rewards)
-- USDT (1x Rewards)
-- ETH (2x Rewards)
+- CAKE (1x Reward)
+- DAI (1x Reward)
 
 [SaltSwap](https://salt-frontend-farms.netlify.app) collects a 3% deposit fee to periodically purchase SALT on the market and burn them.
 
