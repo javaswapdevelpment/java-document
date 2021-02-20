@@ -2,9 +2,7 @@
 
 **Initial Liquidity Pools \(LPs\) for farming SALT tokens:**
 
-<!-- FIXME Add screenshot of https://salt-frontend-farms.netlify.app/pools -->
-
-![](https://via.placeholder.com/150)
+![SALT Farms](../.gitbook/assets/farms.png)
 
 **Reward multipliers:**
 
