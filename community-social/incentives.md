@@ -1,3 +1,7 @@
+---
+description: SaltSwap Incentives Program
+---
+
 # SALT incentives
 
 You can earn free SALT tokens by participating in some of our incentive programs.

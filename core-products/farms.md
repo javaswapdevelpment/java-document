@@ -1,3 +1,7 @@
+---
+description: SaltSwap Yield Farms
+---
+
 # Farms
 
 **Initial Liquidity Pools \(LPs\) for farming SALT tokens:**

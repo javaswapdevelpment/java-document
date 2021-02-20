@@ -1,8 +1,12 @@
-# SALT Basics
+---
+description: A perpetual deflation token.
+---
+
+# SALT
 
 ![SALT Logo](../.gitbook/assets/salt.svg)
 
-**Token:** SALT, a perpetual deflation token.
+**Token:** SALT
 
 - **SALT Address:** [0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4](https://bscscan.com/address/0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4)
 - **Timelock address:** [0x11D1c539a1919D601ba85cC993665819FC6120d9](https://bscscan.com/address/0x11D1c539a1919D601ba85cC993665819FC6120d9) (delay: 3 days)

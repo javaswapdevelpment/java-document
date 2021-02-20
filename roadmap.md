@@ -1,3 +1,7 @@
+---
+description: SaltSwap Planned Features
+---
+
 # Roadmap
 
 Below are the features that we are currently working on.
@@ -9,7 +13,6 @@ The lottery is not only a chance for you to win more SALT but also a _burning me
 **Launchpools**
 
 Stake SALT get tokens
-
 
 **Binary options**
 

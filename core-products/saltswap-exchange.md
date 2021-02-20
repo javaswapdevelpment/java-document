@@ -1,3 +1,7 @@
+---
+description: SaltSwap Exchange
+---
+
 # Exchange
 
 [**Token swaps**](https://exchange.saltswap.finance/#/swap) on SaltSwap are a simple way to trade one BEP-20 token for another via automated liquidity pools. In the backend of the exchange we are using [PancakeSwap](https://pancakeswap.finance/).
