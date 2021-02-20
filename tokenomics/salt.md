@@ -21,7 +21,7 @@ description: A perpetual deflation token
 
 **Deflationary Mechanics:**
 
-- Farms & pools will get corresponding SALT depending on the multiplier shown on the top right corner;
+- Farms & Pools will get SALT depending on the multiplier shown on the top right corner;
 - ~9.09% will be sent to the developer's address for further development of the platform;
 - As soon as the lottery is implemented, 20% of the pot will be burned.
 
@@ -29,7 +29,7 @@ description: A perpetual deflation token
 
 - **Farmers** - 90.9% of the rewards per block \(1 SALT\)
 - **Farmers daily** - 28,800 SALT \(based on 28,800 blocks per day\)
-- **Devs** - ~9.09% of the rewards per block \(0.1 SALT\)
+- **Devs \& Incentives** - ~9.09% of the rewards per block \(0.1 SALT\)
 
 **Fees:**
 

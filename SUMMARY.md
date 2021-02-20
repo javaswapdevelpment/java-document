@@ -16,7 +16,7 @@
 
 ## Tokenomics
 
-- [SALT Basics](tokenomics/salt.md)
+- [SALT](tokenomics/salt.md)
 
 ## Guides
 
