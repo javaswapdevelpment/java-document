@@ -4,16 +4,34 @@ description: SaltSwap's Planned Features
 
 # Roadmap
 
-Below are the features that we are currently working on.
 
-**Lottery (Burning Mechanism)**
+**Q1 2021
 
-The lottery is not only a chance for you to win more SALT but also a _burning mechanism_ for us to keep the value of the token high.
 
-**Launchpools**
+Launchpools (Oceans) : Stake SALT get tokens
 
-Stake SALT get tokens
+Announce partnerships
 
-**Binary options**
 
-TBD
+**Q2 2021
+
+Lottery (Burning Mechanism): The lottery is not only a chance for you to win more SALT but also a burning mechanism for us to keep the value of the token high. 
+
+IFO: Initial Farm Offerings: Stake SALT, the only way to buy new tokens with our brand new token sale model
+
+NFT: Non Fungible Tokens
+
+
+Add SALT Governance
+
+**Q3 2021
+
+SALT Exchange (AMM just like Pancake Swap)
+
+Binary options
+
+
+**Q4 2021
+
+Vaults and AutoFarm 
+
