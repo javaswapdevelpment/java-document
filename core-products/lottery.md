@@ -4,7 +4,7 @@
 
 - Lottery Ticket Fee for 1 ticket: 1 SALT
 - Single User Lottery Entry Limit: No limit
-- Paying for one ticket \(1 SALT\) will give users a random 4 digit combination with each digit being between 1-14, for e.g. "14-9-3-2"
+- Paying for one ticket \(1 SALT\) will give users a random 4 digit combination with each digit being between 1-9, for e.g. "8-9-3-2"
 - In the UI, users can choose to enter a multiple of 1 SALT, which will buy them multiple tickets.
 
 **How to win:**
@@ -29,15 +29,17 @@ For example, if the final 4 winning numbers are "1-9-3-2":
 
 **Lottery phases:**
 
-Each full lottery session is completed every 24 hours. An example of a lottery session starting at 0 AM is below:
+The first lottery round will last for 3 days, the subsquent ones will be gradually reduced.
 
-**Phase 1 - Buy Tickets \(0 AM to 1:30 AM\)**
+An example:
 
-- You have 1 hour to buy tickets.
+**Phase 1 - Buy Tickets**
+
+- Go to https://www.saltswap.finance/lottery and buy your tickets.
 - The lottery jackpot will accumulate at the top of the page with each ticket bought.
 - Users will receive a ticket \(comprised of 4 digits\) for each 1 SALT paid.
 
-**Phase 2 - Lottery Draw! \(1:30 AM\)**
+**Phase 2 - Lottery Draw!**
 
 - The 4 winning lottery numbers are drawn and will appear on the page.
 - Each participant's winnings will be automatically calculated based on their ticket numbers and shown on the page.
@@ -48,7 +50,7 @@ Each full lottery session is completed every 24 hours. An example of a lottery s
 
 If you won, congrats! Share with your friends or in our community groups.
 
-The next lottery starts in 24h!
+The next lottery starts soon!
 
 ---
 
