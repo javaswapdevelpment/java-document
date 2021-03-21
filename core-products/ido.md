@@ -18,7 +18,7 @@ SaltSwap's deisgner creates the banners for SaltSwap's own promotions.
 - Token contract address. If the project is a farm, we need the masterchef address too.
 - Raise amount in BNB
 - Softcap
-- Tokens per bnb
+- Tokens per BNB
 - Small project description
 - Kicker (1 liner)
 
@@ -26,4 +26,4 @@ SaltSwap's deisgner creates the banners for SaltSwap's own promotions.
 ## Fee struct
 %10 of the raised BNB will be retained by SaltSwap
 - 9% for the dev team
-- 1% for SALT buyback or ocean buyback
+- 1% for SALT buyback or Ocean buyback
