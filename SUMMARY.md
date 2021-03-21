@@ -11,6 +11,7 @@
 - [Farms](core-products/farms.md)
 - [Contracts](core-products/contracts.md)
 - [Lottery](core-products/lottery.md)
+- [IDO](core-products/ido.md)
   <!-- - [Voting](core-products/voting.md) -->
   <!-- - [Analytics](core-products/saltswap-analytics.md) -->
 
