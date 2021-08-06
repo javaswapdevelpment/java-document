@@ -1,5 +1,5 @@
 ---
-description: SaltSwap's Planned Features
+description: JavaSwap's Planned Features
 ---
 
 # Roadmap
@@ -8,25 +8,25 @@ description: SaltSwap's Planned Features
 ## Q1 2021
 
 
-Launchpools (Oceans) : Stake SALT get tokens
+Launchpools (Oceans) : Stake JAVA get tokens
 
 Announce partnerships
 
 
 ## Q2 2021
 
-Lottery (Burning Mechanism): The lottery is not only a chance for you to win more SALT but also a burning mechanism for us to keep the value of the token high. 
+Lottery (Burning Mechanism): The lottery is not only a chance for you to win more JAVA but also a burning mechanism for us to keep the value of the token high. 
 
-IFO: Initial Farm Offerings: Stake SALT, the only way to buy new tokens with our brand new token sale model
+IFO: Initial Farm Offerings: Stake JAVA, the only way to buy new tokens with our brand new token sale model
 
 NFT: Non Fungible Tokens
 
 
-Add SALT Governance
+Add JAVA Governance
 
 ## Q3 2021
 
-SALT Exchange (AMM just like Pancake Swap)
+JAVA Exchange (AMM just like Pancake Swap)
 
 Binary options
 

@@ -2,10 +2,10 @@
 
 **Specifics:**
 
-- Lottery Ticket Fee for 1 ticket: 1 SALT
+- Lottery Ticket Fee for 1 ticket: 1 JAVA
 - Single User Lottery Entry Limit: No limit
-- Paying for one ticket \(1 SALT\) will give users a random 4 digit combination with each digit being between 1-9, for e.g. "8-9-3-2"
-- In the UI, users can choose to enter a multiple of 1 SALT, which will buy them multiple tickets.
+- Paying for one ticket \(1 JAVA\) will give users a random 4 digit combination with each digit being between 1-9, for e.g. "8-9-3-2"
+- In the UI, users can choose to enter a multiple of 1 JAVA, which will buy them multiple tickets.
 
 **How to win:**
 
@@ -35,9 +35,9 @@ An example:
 
 **Phase 1 - Buy Tickets**
 
-- Go to https://www.saltswap.finance/lottery and buy your tickets.
+- Go to https://www.javaswap.io/lottery and buy your tickets.
 - The lottery jackpot will accumulate at the top of the page with each ticket bought.
-- Users will receive a ticket \(comprised of 4 digits\) for each 1 SALT paid.
+- Users will receive a ticket \(comprised of 4 digits\) for each 1 JAVA paid.
 
 **Phase 2 - Lottery Draw!**
 
@@ -59,7 +59,7 @@ The next lottery starts soon!
 The lottery aims to be completely random. Even though the ticket numbers given out are determined by a front-end logic, there is an extremely low chance that anyone is able to determine the 4 winning numbers ahead of time.
 
 - The 1st lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the number of participating users at the entry deadline.
-- The 2nd lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the total pooled salt balance at the entry deadline.
+- The 2nd lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the total pooled java balance at the entry deadline.
 - The 3rd lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the timestamp of the last lottery participant at the entry deadline.
 - The 4th lottery number will be determined based on the %10 remainder of a hash encoded by the blockhash and the block difficulty at the entry deadline.
 

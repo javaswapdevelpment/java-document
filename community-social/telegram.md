@@ -1,5 +1,5 @@
 ---
-description: SaltSwap's Telegram Community
+description: JavaSwap's Telegram Community
 ---
 
 # Telegram Communities
@@ -8,18 +8,18 @@ We have a thriving Telegram community
 
 **Official Telegram Groups:**
 
-🧂 Main Channel [t.me/SaltSwap](https://t.me/SaltSwap)
+🧂 Main Channel [t.me/JavaSwap](https://t.me/JavaSwap)
 
-📣 Announcement Channel [t.me/SaltSwapAnn](https://t.me/SaltSwapAnn)
+📣 Announcement Channel [t.me/JavaSwapAnn](https://t.me/JavaSwapAnn)
 
 **Unofficial Telegram Groups:**
 
-Want to ppen a local SALT community in your local language on Telegram?
+Want to ppen a local JAVA community in your local language on Telegram?
 
 Talk with us and we will fund you.
 
 **Community manager**
 
-Would you like to keep the channel on Telegram [t.me/SaltSwap](https://t.me/SaltSwap) clean of spam and help answer questions from the community?
+Would you like to keep the channel on Telegram [t.me/JavaSwap](https://t.me/JavaSwap) clean of spam and help answer questions from the community?
 
-We are opening a community manager role. We will pay you in SALT.
+We are opening a community manager role. We will pay you in JAVA.

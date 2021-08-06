@@ -1,31 +1,31 @@
 # Table of contents
 
-- [Salt Swap](README.md)
+- [Java Swap](README.md)
 - [Roadmap](roadmap.md)
 - [FAQ](faq.md)
 
 ## Core Products
 
-- [Exchange](core-products/saltswap-exchange.md)
-- [Pools](core-products/saltswap-pools.md)
+- [Exchange](core-products/javaswap-exchange.md)
+- [Pools](core-products/javaswap-pools.md)
 - [Farms](core-products/farms.md)
 - [Contracts](core-products/contracts.md)
 - [Lottery](core-products/lottery.md)
 - [IDO](core-products/ido.md)
   <!-- - [Voting](core-products/voting.md) -->
-  <!-- - [Analytics](core-products/saltswap-analytics.md) -->
+  <!-- - [Analytics](core-products/javaswap-analytics.md) -->
 
 ## Tokenomics
 
-- [SALT](tokenomics/salt.md)
+- [JAVA](tokenomics/java.md)
 
 ## Guides
 
-- [How to use MetaMask on SaltSwap](guides/saltswap-metamask.md)
+- [How to use MetaMask on JavaSwap](guides/javaswap-metamask.md)
 
 ## Community / Social
 
-- [SALT incentives](community-social/incentives.md)
+- [JAVA incentives](community-social/incentives.md)
 - [Twitter](community-social/untitled.md)
 - [Telegram](community-social/telegram.md)
 - [Blog \(Medium\)](community-social/blog-medium.md)

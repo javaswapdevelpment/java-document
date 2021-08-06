@@ -1,18 +1,18 @@
 ---
-description: SaltSwap's Yield Farms
+description: JavaSwap's Yield Farms
 ---
 
 # Farms
 
-**Initial Liquidity Pools \(LPs\) for farming SALT tokens:**
+**Initial Liquidity Pools \(LPs\) for farming JAVA tokens:**
 
-![SALT Farms](../.gitbook/assets/farms.png)
+![JAVA Farms](../.gitbook/assets/farms.png)
 
 **Reward multipliers:**
 
-- SALT (10x Rewards)
-- SALT-BUSD (40x Rewards)
-- SALT-BNB (24x Rewards)
+- JAVA (10x Rewards)
+- JAVA-BUSD (40x Rewards)
+- JAVA-BNB (24x Rewards)
 - BNB-BUSD (5x Rewards)
 - DAI-BUSD (4x Rewards)
 - BETH-ETH (4x Rewards)
@@ -23,8 +23,8 @@ description: SaltSwap's Yield Farms
 - CAKE (1x Rewards)
 - DAI (1x Rewards)
 
-[SaltSwap](https://www.saltswap.finance/farms) collects a 3% deposit fee to periodically purchase SALT on the market and burn them.
+[JavaSwap](https://www.javaswap.io/farms) collects a 3% deposit fee to periodically purchase JAVA on the market and burn them.
 
 This will reduce the supply and pump your bags!
 
-[Get your FLIP tokens \(SaltSwap Liquidity Provider Tokens\) here](https://exchange.saltswap.finance/#/swap)
+[Get your FLIP tokens \(JavaSwap Liquidity Provider Tokens\) here](https://exchange.javaswap.io/#/swap)

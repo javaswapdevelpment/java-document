@@ -1,12 +1,12 @@
 ---
-description: SaltSwap's Contracts
+description: JavaSwap's Contracts
 ---
 
 # Contracts
 
-Our contracts are publicly accessible in the following repo [github.com/saltswap/salt-contracts](https://github.com/saltswap/salt-contracts)
+Our contracts are publicly accessible in the following repo [github.com/javaswapdevelpmentjava-contracts](https://github.com/javaswapdevelpment/java-contracts)
 
-- **SALT:** [0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4](https://bscscan.com/address/0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4)
+- **JAVA:** [0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4](https://bscscan.com/address/0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4)
 - **MasterChef:** [0xB4405445fFAcF2B86BC2bD7D1C874AC739265658](https://bscscan.com/address/0xB4405445fFAcF2B86BC2bD7D1C874AC739265658)
 - **Timelock:** [0xB5cD51B879424a920513a66407BB041a9E904731](https://bscscan.com/address/0xB5cD51B879424a920513a66407BB041a9E904731) (delay: 24h)
 
@@ -41,6 +41,6 @@ function migrate(uint256 _pid) public {
 }
 ```
 
-**Diff EGG MasterChef vs SALT MasterChef**
+**Diff EGG MasterChef vs JAVA MasterChef**
 
 Please refer to the following diffchecker: [diffchecker.com/AoYdXp6H](https://www.diffchecker.com/AoYdXp6H)
