@@ -8,7 +8,7 @@ We have a thriving Telegram community
 
 **Official Telegram Groups:**
 
-🧂 Main Channel [t.me/JavaSwap](https://t.me/JavaSwap)
+☕ Main Channel [t.me/JavaSwap](https://t.me/JavaSwap)
 
 📣 Announcement Channel [t.me/JavaSwapAnn](https://t.me/JavaSwapAnn)
 

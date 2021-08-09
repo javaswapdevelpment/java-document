@@ -1,5 +1,5 @@
 ---
-description: Get java! 🧂
+description: Get java! ☕
 ---
 
 # JavaSwap, get java!
