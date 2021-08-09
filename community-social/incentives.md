@@ -18,7 +18,7 @@ Please read how to contribute in our guide in the repo's README.
 
 **Designer?**
 
-Create a sticker pack for Telegram [t.me/JavaSwap](https://t.me/JavaSwap), the top 3 most voted will earn a big chunk of JAVA rewards.
+Create a sticker pack for Telegram [t.me/JavaSwap_Official](https://t.me/JavaSwap_Official_Official), the top 3 most voted will earn a big chunk of JAVA rewards.
 
 **Do you speak a language other than English?**
 
@@ -26,7 +26,7 @@ Open a local JAVA community in your local language on Telegram and we will fund 
 
 **Community manager**
 
-Would you like to keep the channel on Telegram [t.me/JavaSwap](https://t.me/JavaSwap) clean of spam and help answer questions from the community?
+Would you like to keep the channel on Telegram [t.me/JavaSwap_Official](https://t.me/JavaSwap_Official_Official) clean of spam and help answer questions from the community?
 
 We are opening a community manager role. We will pay you in JAVA.
 

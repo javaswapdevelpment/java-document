@@ -8,9 +8,9 @@ We have a thriving Telegram community
 
 **Official Telegram Groups:**
 
-☕ Main Channel [t.me/JavaSwap](https://t.me/JavaSwap)
+☕ Main Channel [t.me/JavaSwap_Official](https://t.me/JavaSwap_Official_Official)
 
-📣 Announcement Channel [t.me/JavaSwapAnn](https://t.me/JavaSwapAnn)
+📣 Announcement Channel [t.me/JavaSwap_OfficialAnn](https://t.me/JavaSwap_Official_OfficialAnn)
 
 **Unofficial Telegram Groups:**
 
@@ -20,6 +20,6 @@ Talk with us and we will fund you.
 
 **Community manager**
 
-Would you like to keep the channel on Telegram [t.me/JavaSwap](https://t.me/JavaSwap) clean of spam and help answer questions from the community?
+Would you like to keep the channel on Telegram [t.me/JavaSwap_Official](https://t.me/JavaSwap_Official_Official) clean of spam and help answer questions from the community?
 
 We are opening a community manager role. We will pay you in JAVA.
